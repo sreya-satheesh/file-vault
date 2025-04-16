@@ -1,6 +1,7 @@
 # File Vault
 
 A full-stack file management application built with React and Django, designed for efficient file handling and storage.
+
 [recording.webm](https://github.com/user-attachments/assets/35798d0e-f6bd-4781-91be-7f88bc06e76d)
 
 ## 🚀 Technology Stack
