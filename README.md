@@ -24,6 +24,37 @@ A full-stack file management application built with React and Django, designed f
 - Docker and Docker Compose
 - Local file storage with volume mounting
 
+### Features & Functionality
+1️⃣ **File Deduplication System**
+
+**Objective**: Optimize storage efficiency by detecting and handling duplicate file uploads.
+
+**Key Features**:
+
+- Automatically identifies duplicate files based on content during upload
+- Stores references to existing files instead of saving duplicates again
+- Displays storage savings achieved through deduplication
+
+2️⃣ **Search & Filtering System**
+
+**Objective**: Enable efficient retrieval of stored files through search and filtering options.
+
+**Key Features**:
+
+- Search by file name
+
+- Filter by:
+
+   - File type
+
+   - Size range
+
+   - Upload date
+
+- Support for combining multiple filters simultaneously
+
+- Optimized for performance with large datasets
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have installed:
