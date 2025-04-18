@@ -4,7 +4,7 @@ A full-stack file management application built with React and Django, designed f
 
 [recording.webm](https://github.com/user-attachments/assets/35798d0e-f6bd-4781-91be-7f88bc06e76d)
 
-## 🚀 Technology Stack
+## Technology Stack
 
 ### Backend
 - Django 4.x (Python web framework)
@@ -55,14 +55,14 @@ A full-stack file management application built with React and Django, designed f
 
 - Optimized for performance with large datasets
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have installed:
 - Docker (20.10.x or higher) and Docker Compose (2.x or higher)
 - Node.js (18.x or higher) - for local development
 - Python (3.9 or higher) - for local development
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Using Docker (Recommended)
 
@@ -118,12 +118,12 @@ docker-compose up --build
    npm start
    ```
 
-## 🌐 Accessing the Application
+## Accessing the Application
 
 - Frontend Application: http://localhost:3000
 - Backend API: http://localhost:8000/api
 
-## 📝 API Documentation
+## API Documentation
 
 ### File Management Endpoints
 
@@ -151,7 +151,7 @@ docker-compose up --build
 #### Download File
 - Access file directly through the file URL provided in metadata
 
-## 🗄️ Project Structure
+## Project Structure
 
 ```
 file-hub/
@@ -172,14 +172,14 @@ file-hub/
 └── docker-compose.yml    # Docker composition
 ```
 
-## 🔧 Development Features
+## Development Features
 
 - Hot reloading for both frontend and backend
 - React Query DevTools for debugging data fetching
 - TypeScript for better development experience
 - Tailwind CSS for rapid UI development
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 1. **Port Conflicts**
    ```bash
